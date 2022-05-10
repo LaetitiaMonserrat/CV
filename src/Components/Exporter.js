@@ -33,11 +33,7 @@ class Exporter extends React.Component {
     render() {
         return (
             <div>
-                <button onClick={() => this.export("pdf", "my-content")}></button>
-                <div id={`capture`} >
-                    Content to export as pdf/png
-                    {this.props.children} //any child Component render here will be exported as pdf/png
-                </div>
+                <button onClick={() => this.export("pdf", "my-content")}><i className="fa fa-download"></i> Télécharger mon CV</button>
             </div>
         )
     }
