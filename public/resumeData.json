@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Laetitia Monserrat",
+    "occupation": "Développeuse web",
+    "description": "Je suis actuellement en formation Mastère Info-Tech' à Campus Academy, une école où je suis apprivoisée par des professeurs expérimentés et des formateurs qualifiés. Je suis à la recherche d'un poste de développeuse web à la suite de mon mastère, où je pourrai développer mes compétences et me perfectionner.",
+    "image": "profilepic.jpg",
+    "bio": "Sérieuse, à l'écoute et organisée, j'aime beaucoup le développement web et utilise principalement Symfony et ReactJS.",
+    "contactmessage": "Si mon CV vous intéresse, n'hésitez pas à me contacter !",
+    "email": "laetitia.monserrat@free.fr",
+    "phone": "06 01 02 03 04",
+    "address": {
+      "street": "1 rue de la paix",
+      "city": "La Bouilladisse",
+      "state": "France",
+      "zip": "13720"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/laetitia.monserrat",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/laetitia-monserrat/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/laeti.little/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/LaetitiaMonserrat",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Mes compétences",
+    "education": [
+      {
+        "school": "Campus Academy",
+        "degree": "Mastère en informatique",
+        "graduated": "Septembre 2022",
+        "description": "Pendant ces deux ans j'ai pu me perfectionner dans le développement web, avec Symfony et ReactJS."
+      },
+      {
+        "school": "Aix-Marseille Université",
+        "degree": "Licence professionnelle Mobile, Internet et Webmaster",
+        "graduated": "Juin 2019",
+        "description": "Au cours de cette année, j'ai pu acquérir toutes les bases javascript, html, css, php, mysql, git, etc."
+      },
+      {
+        "school": "Ynov",
+        "degree": "BTS SIO",
+        "graduated": "Juin 2017",
+        "description": "Au cours de ces deux années, j'ai acquis les connaissances de bases d'un informaticien et me suis orienté côté développement."
+      }
+    ],
+    "work": [
+      {
+        "company": "Enedis",
+        "title": "Développeur web",
+        "years": "Septembre 2020 à aujourd'hui",
+        "description": "En charge du maintien et du développement d'un site web interne à l'entreprise utilisé quotidiennement par les employés. En parallèle, en charge de la refonte de ce site web."
+      },
+      {
+        "company": "Tool4staffing",
+        "title": "Développeuse PHP",
+        "years": "Mars 2019 - Octobre 2019",
+        "description": "Intégrée dans l'équipe de développeurs, j'étais en charge de la création et personnalisation de comptes clients, correction de bug et développement de fonctionnalités sur le logiciel de gestion de l'entreprise. J'ai également développer une API pour automatiser la récupération de profil via Viadeo."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Symfony",
+        "level": "65%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "SEO",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Workshop associatif",
+        "category": "Organisation d'un évènement pour soutenir La Ligue contre le cancer",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://laetitiamonserrat.github.io/FiveGuys/"
+      },
+      {
+        "title": "Défilé inclusif",
+        "category": "Création d'un site web pour l'organisation d'un défilé inclusif",
+        "image": "fury-fighting-gear.jpg",
+        "url": "https://eclose.online/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
